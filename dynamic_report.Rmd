@@ -27,9 +27,9 @@ color: #4d2800;
 font-family: Arial
 }
 ```
-<center>
+
 ## ANALYSIS ON ADS ENCOUNTERED: 
-</center>
+
 
 ### Device, Frequency, Platform, and Relevance
 
