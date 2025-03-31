@@ -39,6 +39,7 @@ In the following sections, we will inspect aspects of the data collected, to see
 
 
 ## Device Used
+
 ```{r, echo=FALSE}
 
 device_plot <- ggplot(latest_data) + 
@@ -55,7 +56,6 @@ While phones are primarily used for more casual browsing, desktops and laptops a
 
 
 ## Frequency of encountering this ad
-
 
 ```{r}
 number_encountered_plot <- ggplot(latest_data) + 
@@ -79,6 +79,8 @@ The data analyzed shows that the *frequency* of encountering a specific ad range
 These findings prove that the algorithm behind these ads encountered online is not overly aggressive, and prefers choosing diversity in its ads rather than overwhelming the viewer with the same ad. Such an approach aims to maintain user engagement by preventing ad fatigue.Furthermore, these findings highlight the smart strategies used in keeping the audience engagement, hence companies can ensure better results while avoiding audience burnout.
 
 ## Platform where this add appeared
+
+
 ```{r}
 platform_plot <- ggplot(latest_data) + 
   geom_bar(aes(x = platform), fill = "#bf4040")
