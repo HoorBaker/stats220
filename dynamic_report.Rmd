@@ -38,6 +38,9 @@ This survey was created to analyse the data collected from the online survey. It
 In the following sections, we will inspect aspects of the data collected, to see if any relevant trends or numbers appear to be important. 
 
 
+![](https://i.pinimg.com/736x/6c/e0/f5/6ce0f592604baa210b8867b96f2716bc.jpg)
+
+
 ## Device Used
 ```{r, echo=FALSE}
 
