@@ -21,7 +21,7 @@ latest_data <- logged_data %>%
 
 ```{css}
 body{
-background-image: url("https://i.pinimg.com/736x/da/98/5d/da985d48b0f8eeeef908b27390377be3.jpg"); 
+background-image: url("https://i.pinimg.com/736x/ed/b8/6f/edb86feda3e9f0a7b3264c0f48f136a5.jpg"); 
 background-size: cover;
 color: #4d2800;
 font-family: Arial
